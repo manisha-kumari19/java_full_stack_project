@@ -1,0 +1,18 @@
+<app-header></app-header>
+<h2>employees list</h2>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>First Name</th>
+            <th>Designation</th>
+            <th>EmailId</th>
+        </tr>
+    </thead>
+    <tbody>
+     <tr *ngFor="let employee of employees">
+        <td> {{ employee.firstname }}</td>
+        <td> {{ employee.designation}}</td>
+        <td> {{ employee.emailid }}</td>
+     </tr>
+    </tbody>
+</table>

@@ -1,0 +1,79 @@
+.dashbg{
+    background-image: url(../../../assets/images/mario-gogh-VBLHICVh-lI-unsplash.jpg);
+    
+        
+      
+   width: 100%;
+    /* Full height */
+    height: 100vh;
+  
+    /* Center and scale the image nicely */
+background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+  }
+
+  .dashbg {
+    overflow: auto;
+    /* or */
+    /* overflow: hidden; */
+}
+
+.loginbox{
+   margin-top: 15vw;
+    margin-left: 35vw;
+    margin-bottom:15vw;
+    margin-right: 15vw;
+    width: 32vw;
+   
+    background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(240, 234, 234, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1; /* Grey text */
+}
+.logintitle{
+    font-family: 'Dancing Script', cursive;
+    color: rgb(120, 13, 182);
+    font-size: 4vw; 
+    padding: auto;
+    padding-top: .5vw; 
+    padding-bottom:.5vw;
+    text-align: center;
+    text-decoration: wavy;
+ 
+}
+
+.logindesc{
+    padding: auto;
+    text-align: center;
+    padding-bottom: 1vw;
+    text-decoration-color: rgb(76, 77, 78);
+
+}
+.loginbox2{
+    margin-left: 2.5vw;
+}
+.lmail{
+   padding-top: 2vw;
+    
+}
+
+.lpass{
+    padding-top: 2vw;
+}
+.loginbutton{padding-bottom: .5vw;
+    padding-top: 1vw;
+
+}
+.lbutton{
+    background-color: rgb(173, 69, 233);
+    width: 15vw;
+}
+
+.lbutton2{
+    background-color: rgb(173, 69, 233);
+    
+}
+
+/*  pasted something */
+
+

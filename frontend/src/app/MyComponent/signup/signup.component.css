@@ -1,0 +1,13 @@
+.bg-image{
+    background-image: url('../../../assets/images/mario-gogh-VBLHICVh-lI-unsplash.jpg');
+     /* Full height */
+     height: 100vh;
+  
+     /* Center and scale the image nicely */
+ background-position: center;
+     background-repeat: no-repeat;
+     background-size:cover;
+   }
+.bg-image{
+   overflow: auto;
+};
